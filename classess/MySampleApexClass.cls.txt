@@ -1,0 +1,6 @@
+public class MySampleApexClass {
+
+	public static integer getCalculatedValue(integer a, integer b) {
+		return (a + b);
+	}
+}
